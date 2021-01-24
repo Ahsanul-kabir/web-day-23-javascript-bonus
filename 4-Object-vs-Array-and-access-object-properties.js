@@ -27,7 +27,7 @@ console.log(myAge);
 
 
 // for update any value
-ami2.age = 20; // way of update 
+ami2.age = 20; // way of update
 console.log(myAge);
 
 ami2['weight'] = 95; // way
